@@ -17,7 +17,7 @@ This is a Python-based clone of the classic **Flappy Bird** game, enhanced with 
 
 ## 📸 Game Layout
 
-![Game Screenshot](./NEAT_sample.png)
+<img src="NEAT_sample.png" width="300" height="400"/>
 
 ---
 
