@@ -4,7 +4,6 @@ from pygame.locals import *
 import neat
 import os
 from typing import List, Tuple
-import graphviz
 
 # COLOR CONSTANTS
 BLACK = (0, 0, 0)
